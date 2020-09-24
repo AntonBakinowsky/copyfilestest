@@ -1,0 +1,14 @@
+{
+  "name": "copyfilestest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy": "copyfiles  ./test/* ./out/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copyfiles": "^2.3.0"
+  }
+}
